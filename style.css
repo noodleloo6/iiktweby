@@ -1,2 +1,6 @@
-h1 {color: aqua;}
-#id1 {background-color: brown;} 
+h1 {color: rgb(128, 98, 0);}
+#id1 {background-color: rgb(228, 187, 187);} 
+.class1 {color: rgb(17, 223, 103);}
+a {background-color: rgb(167, 167, 238);}
+.class2.class3 {background-color:rgb(193, 230, 230);}
+.class2.class3 p {background-color: rgb(207, 181, 231);}
