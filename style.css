@@ -18,3 +18,5 @@ ul {list-style-type: none; margin: 0; padding: 0;} /* seznam nebude mít odráž
 li {display: inline; padding: 40px ; margin: 0px 0px; border: 4px solid black;} /* z položek seznam se stane inline element */ 
 a {display: block;} /* chceme nastavit odkazu margin nebo padding,  ale často to nebude fungovat protože u inline elemenztu nejdou nastvait takze z nich nejprve musime vytvorit block element*/
 .kontejner1 {margin: bottom 100px;}
+.trida {background-color: aqua; width: 200px; height: 100px; overflow: hidden;} /* overflow-urcuje chování obsahu kdyz se nevleze do prvku, hidden schová text co se nevejde do elementu a scroll vyvoří posuvací čtverec*/
+.box {border: 4px solid black; width: 20%; float: left;}
