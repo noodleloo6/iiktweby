@@ -9,7 +9,8 @@ h1 {color: rgb(128, 98, 0);}
 .class5 {border: 4px solid black;padding-bottom: 70px; padding-left: 829px;margin-top: 40px;} 
 .class6 {border: 10px olive;padding-top: 100px; padding-bottom: 70px; padding-left: 829px;margin-top: 40px;margin-left: 170px;margin-bottom: 70px; }
 .class3 {margin: 100px 20px 60px 200px;}
-a:link {color: rgb(40, 216, 24);}
-a:active{color: blueviolet;}
-a:visited{color: rgb(233, 27, 27);}
-a:hover {color: rgb(230, 53, 185);}
+a:link {color: rgb(40, 216, 24);} /* barva odkazu*/
+a:active{color: rgb(43, 198, 226);} /* barva odkazu když je aktivní*/
+a:visited{color: rgb(233, 27, 27);} /* barva odkazu po tom co už byl navštíven*/
+a:hover {color: rgb(230, 53, 185);} /*barva odkazu když na něj najedeme myší*/
+a:link {text-decoration: none;} /* zmizí nám podtržení odkazu*/ 
