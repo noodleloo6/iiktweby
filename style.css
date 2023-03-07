@@ -19,3 +19,5 @@ a {display: block;}
 .kontejner1 {margin: bottom 100px;}
 .trida {background-color: aqua; width: 200px; height: 100px; overflow: hidden;} 
 */
+ul {list-style-type: none; background-color: rgb(66, 66, 66); overflow: hidden;} 
+li {float: left; padding: 25px;}
