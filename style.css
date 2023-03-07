@@ -23,3 +23,5 @@ a {display: block;}
 ul {list-style-type: none; background-color: rgb(66, 66, 66); overflow: hidden;} 
 li {float: left; padding: 25px;}
 a {color: rgb(255, 228, 196); text-decoration: none; font: icon; font-size: 30px;}
+.dropdown-content {display: none;} 
+li:hover {background-color: rgb(169, 211, 197);} 
